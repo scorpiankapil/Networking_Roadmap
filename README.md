@@ -13,3 +13,5 @@ But my roadmap is also designed with experts in mind. If you're already well-ver
 Plus, my roadmap is constantly updated with the latest information and resources, so you can be sure you're learning from the most up-to-date materials available.
 
 So whether you're just getting started in networking or you're a seasoned pro looking to stay on the cutting edge, my roadmap has something for you. Don't miss out on this valuable resource - check it out now on GitHub and unlock your networking potential!
+
+<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/FmKQQMJ4H6DzvovXas3Df8"></iframe>
